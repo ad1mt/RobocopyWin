@@ -1,7 +1,5 @@
-# RobocopyWin
 RobocopyWin provies an easy GUI front-end to the Robocopy command that comes with Windows.
 Robocopy is a command-line file backup/copy utility that comes with Windows.
-
 The RobocopyWin config is stored in an .ini file. If you run the program with no .ini file it will create one.
 To configure alternate Robocopy options, you must edit the .ini file. RobocopyWin preserves the options in the .ini file, including those you added.
 If the Robocopy command is not in the path on your PC, then you can edit the .ini file executable setting to include the full path to Robocopy.
