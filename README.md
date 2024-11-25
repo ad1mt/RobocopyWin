@@ -17,9 +17,13 @@ Feel free to modify this program if you wish. There is no license, it is in the 
 Here is the contents of the recommended .ini file:
 
 >[Robocopy]
+>
 >Executable=ROBOCOPY.EXE
+>
 >Source=C:\
+>
 >Destination=D:\
+>
 >CopyOptions=/COPY:DAT /E /R:0 /XA:SHO /XD "System Volume Information" "$RECYCLE.BIN"
 >
 >LogOptions=/LOG:robocopy.log /V /NP
