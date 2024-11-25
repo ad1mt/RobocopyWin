@@ -28,4 +28,4 @@ Here is the contents of the recommended .ini file:
 >
 >LogOptions=/LOG:robocopy.log /V /NP
 
-The format of the options in the .ini file are exactly as they would be used on the command line, with one or more spaces between each option.
+The format of the Copyoptions and Logoptions in the .ini file are exactly as they would be used on the command line, with one or more spaces between each option. You can edit the options and the program will preserve your changes.
