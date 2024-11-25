@@ -21,6 +21,7 @@ Here is the contents of the recommended .ini file:
 >Source=C:\
 >Destination=D:\
 >CopyOptions=/COPY:DAT /E /R:0 /XA:SHO /XD "System Volume Information" "$RECYCLE.BIN"
+>
 >LogOptions=/LOG:robocopy.log /V /NP
 
 The format of the options in the .ini file are exactly as they would be used on the command line, with one or more spaces between each option.
