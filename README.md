@@ -1,4 +1,4 @@
-RobocopyWin provies an easy GUI front-end to the Robocopy command that comes with Windows.
+RobocopyWin provides an easy GUI front-end to the Robocopy command that comes with Windows.
 
 Robocopy is a command-line file backup/copy utility that comes with Windows.
 
