@@ -14,6 +14,8 @@ There is no installer; unzip, build, copy the folder to a suitable location, cre
 
 Feel free to modify this program if you wish. There is no license, it is in the public domain. There are no guarantees with this program; you should test it before using it on important data.
 
+Version 1.11 has a small improvement in control of logging.
+
 Here is the contents of the recommended .ini file:
 
 >[Robocopy]
