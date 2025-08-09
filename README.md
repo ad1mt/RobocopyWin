@@ -1,6 +1,6 @@
-RobocopyWin provides an easy GUI front-end to the Robocopy command that comes with Windows.
+RobocopyWin provides an easy GUI front-end for the Robocopy command that comes with Windows.
 
-Robocopy is a command-line file backup/copy utility that comes with Windows.
+Robocopy is a command-line file backup/copy utility.
 
 The RobocopyWin config is stored in an .ini file. If you run the program with no .ini file it will create one.
 
@@ -14,7 +14,7 @@ There is no installer; unzip, build, copy the folder to a suitable location, cre
 
 Feel free to modify this program if you wish. There is no license, it is in the public domain. There are no guarantees with this program; you should test it before using it on important data.
 
-Version 1.12 has a minor bug fix which sometimes caused a spurious error.
+Version 1.13 has an improvement in the way the destination folder is specified, that can save lots of typing.
 
 Here is the contents of the recommended .ini file:
 
